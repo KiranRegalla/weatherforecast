@@ -9,15 +9,15 @@ function TopButtons({ setQuery }) {
         },
         {
             id: 2,
-            title: "Sydney"
+            title: "Manuguru"
         },
         {
             id: 3,
-            title: "Tokyo"
+            title: "Benguluru"
         },
         {
             id: 4,
-            title: "Toronto"
+            title: "Hyderabad"
         },
         {
             id: 5,
